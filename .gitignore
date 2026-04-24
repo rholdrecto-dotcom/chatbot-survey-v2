@@ -1,0 +1,9 @@
+# Database configuration (i-exclude natin para safe)
+# Kung hiwalay ang config file mo, ilagay dito ang filename
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# XAMPP/Local environment files
+phpmyadmin/
